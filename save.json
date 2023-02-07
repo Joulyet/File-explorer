@@ -1,0 +1,17 @@
+{
+  "path": "./test",
+  "contents": [
+    {
+      "path": "test/document.txt"
+    },
+    {
+      "path": "test/informations.txt"
+    },
+    {
+      "path": "test/new-file.txt"
+    },
+    {
+      "path": "test/test.txt"
+    }
+  ]
+}
